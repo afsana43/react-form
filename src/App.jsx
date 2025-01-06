@@ -10,7 +10,7 @@ function App() {
     <>
       <h1>Vite + React</h1>
       <OnSubmitForm></OnSubmitForm>
-      {/* <StateFrom></StateFrom> */}
+      <StateFrom></StateFrom>
       <RefForm></RefForm>
     </>
   )
